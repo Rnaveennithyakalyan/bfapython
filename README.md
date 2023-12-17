@@ -11,4 +11,6 @@ HOW I IMPLEMENTED IT:
 
 First I created two word lists one for username and other for password.
 I made the python script to refer to these lists and as a result of which it can look for various possible combinations of username and passwords and obtain the desired result
-You can run this code in the terminal and can obatin the desired output!
+
+
+You can run this code in the terminal and follow the step by step procedure and you can obatin the desired output!
